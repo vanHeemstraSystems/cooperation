@@ -17,6 +17,9 @@ cooperation
 
 **Executive Summary**
 
+![Image](https://github.com/user-attachments/assets/7bc00b4e-c999-4901-9cdf-5a2208d6f818)<br/>
+Pyramid of Success: Cooperation
+
 ![Image](https://github.com/user-attachments/assets/179d8a57-2824-4995-9f6c-39441ef55696)<br/>
 [Delegation Management](https://github.com/vanHeemstraSystems/delegation-management)
 
