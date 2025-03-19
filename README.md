@@ -17,7 +17,7 @@ cooperation
 
 **Executive Summary**
 
-==IMAGE GOES HERE==<br/>
+![Image](https://github.com/user-attachments/assets/179d8a57-2824-4995-9f6c-39441ef55696)<br/>
 [Delegation Management](https://github.com/vanHeemstraSystems/delegation-management)
 
 Text
