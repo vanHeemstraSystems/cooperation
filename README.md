@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+cooperation
+# Cooperation
 
 > Slugline
 
@@ -16,6 +16,9 @@ repository-name
 - [Telemetry](./TELEMETRY.md)
 
 **Executive Summary**
+
+==IMAGE GOES HERE==<br/>
+[Delegation Management](https://github.com/vanHeemstraSystems/delegation-management)
 
 Text
 
